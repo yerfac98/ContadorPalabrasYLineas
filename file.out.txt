@@ -1,0 +1,3 @@
+Suma: 20
+Producto: 504
+Promedio: 5.0
